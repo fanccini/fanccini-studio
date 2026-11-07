@@ -1,4 +1,4 @@
-# NEXORA Studio
+# FANCCINI Studio
 
 Editor audiovisual: video multipista, diseño de imagen, audio, color y 3D en un solo programa.
 
@@ -12,10 +12,10 @@ Editor audiovisual: video multipista, diseño de imagen, audio, color y 3D en un
 
 | Plataforma | Estado | Archivo |
 |---|---|---|
-| Windows 10 y 11 (x64) | Disponible | `NEXORA-Studio-Setup-0.4.0.exe`, `NEXORA-Studio-Portable-0.4.0.exe` |
-| macOS (Apple Silicon e Intel) | Beta | `NEXORA-Studio-0.4.0-arm64.dmg`, `NEXORA-Studio-0.4.0-x64.dmg` |
-| Android 8 o posterior | Beta | `NEXORA-Studio-0.4.1.apk` |
-| iPhone y iPad | Próximamente | Todavía no se puede instalar |
+| Windows 10 y 11 (x64) | Disponible | `FANCCINI-Studio-Setup-0.5.0.exe`, `FANCCINI-Studio-Portable-0.5.0.exe` |
+| macOS (Apple Silicon e Intel) | Beta | `FANCCINI-Studio-0.5.0-arm64.dmg`, `FANCCINI-Studio-0.5.0-x64.dmg` |
+| Android 8 o posterior | Beta | `FANCCINI-Studio-0.5.0.apk` |
+| iPhone | Aplicación web | Se añade a la pantalla de inicio desde Safari. No es una app de la App Store |
 
 ## Instalar
 
@@ -23,6 +23,6 @@ Compara siempre el SHA-256 del archivo con el del [centro de descargas](https://
 
 - **Windows:** abre el instalador. Aún no tiene firma digital: pulsa "Más información" y "Ejecutar de todas formas".
 - **macOS:** abre el DMG y arrastra la app a Aplicaciones. Sin notarización de Apple, macOS la bloqueará: ve a Ajustes del Sistema, Privacidad y seguridad, y pulsa "Abrir igualmente".
-- **Android:** abre el APK y permite instalar apps de esta fuente. Está firmado con la clave propia de NEXORA y no está en Google Play.
+- **Android:** abre el APK y permite instalar apps de esta fuente. Está firmado con la clave propia de FANCCINI y no está en Google Play.
 
 Este repositorio contiene las descargas y el sitio publicado.
