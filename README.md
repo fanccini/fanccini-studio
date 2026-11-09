@@ -12,9 +12,9 @@ Editor audiovisual: video multipista, diseño de imagen, audio, color y 3D en un
 
 | Plataforma | Estado | Archivo |
 |---|---|---|
-| Windows 10 y 11 (x64) | Disponible | `FANCCINI-Studio-Setup-0.6.0.exe`, `FANCCINI-Studio-Portable-0.6.0.exe` |
-| macOS (Apple Silicon e Intel) | Beta | `FANCCINI-Studio-0.6.0-arm64.dmg`, `FANCCINI-Studio-0.6.0-x64.dmg` |
-| Android 8 o posterior | Beta | `FANCCINI-Studio-0.6.0.apk` |
+| Windows 10 y 11 (x64) | Disponible | `FANCCINI-Studio-Setup-0.7.0.exe`, `FANCCINI-Studio-Portable-0.7.0.exe` |
+| macOS (Apple Silicon e Intel) | Beta | `FANCCINI-Studio-0.7.0-arm64.dmg`, `FANCCINI-Studio-0.7.0-x64.dmg` |
+| Android 8 o posterior | Beta | `FANCCINI-Studio-0.7.0.apk` |
 | iPhone | Aplicación web | Se añade a la pantalla de inicio desde Safari. No es una app de la App Store |
 
 ## Instalar
