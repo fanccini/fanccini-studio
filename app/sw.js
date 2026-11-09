@@ -3,7 +3,7 @@
  * La página siempre se pide primero a la red, para no quedarse en una versión vieja.
  * Los archivos con hash no cambian nunca: se guardan al usarlos y así el editor abre sin conexión.
  */
-const CACHE = 'fanccini-mw8rxbls';
+const CACHE = 'fanccini-mw9l64jr';
 const CORE = ['./', 'index.html', 'manifest.webmanifest', 'logo.svg', 'icon-192.png', 'apple-touch-icon.png'];
 
 self.addEventListener('install', (e) => {
