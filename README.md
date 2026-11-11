@@ -2,12 +2,12 @@
 
 Editor audiovisual: video multipista, diseño de imagen, audio, color y 3D en un solo programa. Gratis, sin suscripción y sin marca de agua al exportar.
 
-- **Sitio oficial:** https://cristiancamilochaparro.github.io/nexora-studio/
+- **Sitio oficial:** https://fanccini.github.io/
 - **Windows, en Microsoft Store:** https://apps.microsoft.com/detail/9N917LCDM6T9
-- **Centro de descargas:** https://cristiancamilochaparro.github.io/nexora-studio/download/
-- **Usar en el navegador:** https://cristiancamilochaparro.github.io/nexora-studio/app/
-- **Versiones:** [Releases](https://github.com/CristianCamiloChaparro/nexora-studio/releases)
-- **Errores y soporte:** [Issues](https://github.com/CristianCamiloChaparro/nexora-studio/issues)
+- **Centro de descargas:** https://fanccini.github.io/download/
+- **Usar en el navegador:** https://fanccini.github.io/app/
+- **Versiones:** [Releases](https://github.com/fanccini/fanccini-studio/releases)
+- **Errores y soporte:** [Issues](https://github.com/fanccini/fanccini-studio/issues)
 
 ## Plataformas
 
@@ -20,7 +20,7 @@ Editor audiovisual: video multipista, diseño de imagen, audio, color y 3D en un
 
 ## Instalar
 
-Compara siempre el SHA-256 del archivo con el del [centro de descargas](https://cristiancamilochaparro.github.io/nexora-studio/download/#seguridad).
+Compara siempre el SHA-256 del archivo con el del [centro de descargas](https://fanccini.github.io/download/#seguridad).
 
 - **Windows:** instálalo desde [Microsoft Store](https://apps.microsoft.com/detail/9N917LCDM6T9). Microsoft firma el paquete y la Tienda lo actualiza sola. El instalador clásico (`.exe`) de Releases no tiene firma digital, así que Windows puede bloquearlo.
 - **macOS:** abre el DMG y arrastra la app a Aplicaciones. Sin notarización de Apple, macOS la bloqueará: ve a Ajustes del Sistema, Privacidad y seguridad, y pulsa "Abrir igualmente".
